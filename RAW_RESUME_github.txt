@@ -1,0 +1,33 @@
+Dylan Nguyen​
+Burke, Virginia, 22015 | 703-307-7921 | dylannguyen.inb@gmail.com  		
+LinkedIn: www.linkedin.com/in/dylannguyenPINB
+Detail-oriented and analytical undergraduate student specializing in statistics and data analytics, with hands-on experience in data analysis, programming, and team-driven analysis. Proven ability to leverage statistical methods and programming languages to derive insights and drive decision-making. Eager to apply technical skills in a data-driven role within the technology industry.
+EDUCATION:
+George Mason University                                       
+Expected Graduation December 2026
+Statistics, Bachelors of Science, Statistical Analytics Concentration - 3.63 GPA
+EXPERIENCE:
+Code Ninjas, Code Instructor & Curriculum Designer
+June 2022 – May 2023
+Development of interactive coding projects for children aged 8-14 with C# and JavaScript.
+Safeway, ECommerce Order Fill, Stocker
+May 2023 – August 2023
+Streamlined inventory processes by effectively managing stock across multiple departments.​
+Coastal Flats, Server​
+May 2024 – August 2024
+Delivered exceptional food service in a fast-paced environment.
+KEY ACCOMPLISHMENTS:
+Project Leader, Presentational Data Analysis of Geely Motors Inc.​
+April 2024
+Led a team to process over 1,500 unique data points within the automotive specifications database utilizing advanced techniques in R programming, yielding 96% accuracy in modeling car market trends.
+2nd Place, Trevor Montano Investment Fund Competition, George Mason
+Nov 2023
+Formally Pitch and Present Financial Analysis - Ranked 2nd out of 30 Group Competitors
+Stock Option & Portfolio Risk Management
+March 2024 - Present
+Automated the collection and analysis of stock options data using R and Excel. Performed regression analyses to compare predictors with stock performance yielding 80% accuracy in stock market arbitrage.
+TECHNICAL SKILLS:
+Programming Skills: R, Python, Java, SAS
+Software Skills: Tableau, Base Excel Certification, Excel Pivot Tables
+Data Analysis, Data Management, Exploratory Data Analysis (EDA), Statistical Modeling
+Teamwork, Verbal Communication, Business Challenge
