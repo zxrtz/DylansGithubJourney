@@ -1,4 +1,4 @@
-
+# updated in github
 library(quantmod)
 
 quantmod::getSymbols("SPY")
