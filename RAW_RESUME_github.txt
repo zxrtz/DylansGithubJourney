@@ -31,5 +31,3 @@ Programming Skills: R, Python, Java, SAS
 Software Skills: Tableau, Base Excel Certification, Excel Pivot Tables
 Data Analysis, Data Management, Exploratory Data Analysis (EDA), Statistical Modeling
 Teamwork, Verbal Communication, Business Challenge
-
-
